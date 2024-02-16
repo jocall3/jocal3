@@ -1,0 +1,159 @@
+pre code.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 1em
+}
+code.hljs {
+  padding: 3px 5px
+}
+/*
+
+Style with support for rainbow parens
+
+*/
+.hljs {
+  background: #474949;
+  color: #d1d9e1
+}
+.hljs-comment,
+.hljs-quote {
+  color: #969896;
+  font-style: italic
+}
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-type,
+.hljs-addition {
+  color: #cc99cc
+}
+.hljs-number,
+.hljs-selector-attr,
+.hljs-selector-pseudo {
+  color: #f99157
+}
+.hljs-string,
+.hljs-doctag,
+.hljs-regexp {
+  color: #8abeb7
+}
+.hljs-title,
+.hljs-name,
+.hljs-section,
+.hljs-built_in {
+  color: #b5bd68
+}
+.hljs-variable,
+.hljs-template-variable,
+.hljs-selector-id,
+.hljs-title.class_,
+.hljs-class .hljs-title {
+  color: #ffcc66
+}
+.hljs-section,
+.hljs-name,
+.hljs-strong {
+  font-weight: bold
+}
+.hljs-symbol,
+.hljs-bullet,
+.hljs-subst,
+.hljs-meta,
+.hljs-link {
+  color: #f99157
+}
+.hljs-deletion {
+  color: #dc322f
+}
+.hljs-formula {
+  background: #eee8d5
+}
+.hljs-attr,
+.hljs-attribute {
+  color: #81a2be
+}
+.hljs-emphasis {
+  font-style: italic
+}
+.ant-table-thead .ant-table-cell {
+
+    border-top-width: 1px !important;
+
+    border-bottom-width: 1px !important;
+
+    --tw-border-opacity: 1 !important;
+
+    border-color: rgb(242 241 237 / var(--tw-border-opacity)) !important;
+
+    --tw-bg-opacity: 1 !important;
+
+    background-color: rgb(247 247 246 / var(--tw-bg-opacity)) !important;
+
+    padding-top: 0.5rem !important;
+
+    padding-bottom: 0.5rem !important;
+
+    --tw-text-opacity: 1 !important;
+
+    color: rgb(68 68 68 / var(--tw-text-opacity)) !important
+}
+
+.ant-table-cell {
+
+    padding-left: 0.5rem !important;
+
+    padding-right: 0.5rem !important;
+
+    padding-top: 0.75rem !important;
+
+    padding-bottom: 0.75rem !important;
+
+    font-weight: 500 !important;
+
+    --tw-text-opacity: 1 !important;
+
+    color: rgb(0 0 0 / var(--tw-text-opacity)) !important
+}
+
+.ant-table-cell:first-child {
+
+    padding-left: 1.5rem !important
+}
+
+.ant-table-cell:last-child {
+
+    padding-right: 1.5rem !important
+}
+
+.ant-table-cell-with-append {
+
+    display: flex !important;
+
+    flex-direction: row !important;
+
+    gap: 0.25rem !important;
+
+    font-weight: 500 !important
+}
+
+.ant-table-row {
+
+    --tw-border-opacity: 1 !important;
+
+    border-color: rgb(247 247 246 / var(--tw-border-opacity)) !important
+}
+
+.ant-table-thead {
+
+    border-radius: 0.25rem !important
+}
+
+/* Remove divider between column headers */
+
+.ant-table-cell::before {
+
+    display: none
+}
+
+
+/*# sourceMappingURL=application-bac77ca0.css.map*/
