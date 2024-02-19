@@ -1,0 +1,45 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/untitled4">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled4" projectWorkspaceId="237P6vxcRCxrfDlNcQKpBtRHkrf">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-213.5744.223" />
+              <option name="buildTimestamp" value="1638010679963" />
+              <frame x="260" y="20" width="1400" height="836" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1641081996365" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/GitHub/Jopeb">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Jopeb" projectWorkspaceId="23mDVsGq9qsqgj88CLgfHqZ5S62">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-213.5744.223" />
+              <option name="buildTimestamp" value="1638010641274" />
+              <frame x="-75" y="756" width="1920" height="999" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1642330441028" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo frameTitle=".bash_history" opened="true" projectWorkspaceId="24drdZrmBwvwYhotFuRYOIcMs2h">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-213.5744.223" />
+              <option name="buildTimestamp" value="1638010626935" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1643971424001" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

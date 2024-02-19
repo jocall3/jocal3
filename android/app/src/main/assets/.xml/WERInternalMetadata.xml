@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<WERReportMetadata>
+ <OSVersionInformation>
+  <WindowsNTVersion>10.0</WindowsNTVersion>
+  <Build>19043</Build>
+  <Product>(0x65): Windows 10 Home</Product>
+  <Edition>Core</Edition>
+  <BuildString>19041.1415.amd64fre.vb_release.191206-1406</BuildString>
+  <Revision>1415</Revision>
+  <Flavor>Multiprocessor Free</Flavor>
+  <Architecture>X64</Architecture>
+  <LCID>1033</LCID>
+ </OSVersionInformation>
+ <ProcessInformation>
+  <Pid>404</Pid>
+  <ImageName>msedge.exe</ImageName>
+  <CmdLineSignature></CmdLineSignature>
+  <Uptime></Uptime>
+  <Wow64></Wow64>
+  <IptEnabled>0</IptEnabled>
+ </ProcessInformation>
+ <ProcessMetadata>
+  <Channel>none</Channel>
+  <JavaScriptErrorMessage>Cannot read properties of null (reading &amp;#39;itemId&amp;#39;)</JavaScriptErrorMessage>
+  <MetricsClientId>f0d1942b-9188-45ef-bdbb-01dfdecf7164</MetricsClientId>
+  <MetricsClientIdHash>5445128206035747460</MetricsClientIdHash>
+  <MetricsSessionId>911</MetricsSessionId>
+  <OfficialBuild>1</OfficialBuild>
+ </ProcessMetadata>
+ <ProblemSignatures>
+  <EventType>crashpad_jserror</EventType>
+  <Parameter0>msedge.exe</Parameter0>
+  <Parameter1>97.0.1072.55</Parameter1>
+  <Parameter2>webui-history</Parameter2>
+  <Parameter3>4244586C83816EABBEFD26F167BE33E331757AFF</Parameter3>
+  <Parameter4>TypeError</Parameter4>
+  <Parameter5>Unknown</Parameter5>
+  <Parameter6>9_16558</Parameter6>
+ </ProblemSignatures>
+ <SystemInformation>
+  <MID>C5E254B6-7823-4A16-99F0-5E54AB3E598C</MID>
+  <SystemManufacturer>HP</SystemManufacturer>
+  <SystemProductName>20-c013w</SystemProductName>
+  <BIOSVersion>F.51</BIOSVersion>
+ </SystemInformation>
+ <ReportInformation>
+  <Guid>ce30d847-426e-407e-8078-d46ddbf57603</Guid>
+  <CreationTime>2022-01-08T18:19:03Z</CreationTime>
+ </ReportInformation>
+</WERReportMetadata>

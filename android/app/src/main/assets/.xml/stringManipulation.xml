@@ -1,0 +1,12 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="customActionModels">
+      <list>
+        <CustomActionModel>
+          <option name="id" value="StringManipulation.f7f10b7e-07ab-4fe9-a3d3-e1bd203608a9" />
+          <option name="name" value="New action" />
+        </CustomActionModel>
+      </list>
+    </option>
+  </component>
+</application>

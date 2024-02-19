@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tasks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/JetBrains/IntelliJIdea2021.3/tasks/user.contexts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/JetBrains/IntelliJIdea2021.3/tasks/user.tasks.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

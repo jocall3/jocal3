@@ -1,0 +1,30 @@
+<application>
+  <component name="BigDataIdeGlobalConnectionSettings">
+    <option name="connections">
+      <list>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="rootPath" value="rO0ABXQAA0M6XA==" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
+          <option name="groupId" value="RfsLocalConnectionGroup" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@-1704649328613422807" />
+          <option name="name" value="Local" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+      </list>
+    </option>
+  </component>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="$USER_HOME$/Downloads/rootkey.csv" />
+        <option value="_k_J4F__i_java_error_in_idea64go_txt_hprof.hprof\java_error_in_idea64go.txt.hprof" />
+        <option value="__EH___xml.xml\.xml" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="C:\Users\user\AppData\Local\Temp\HDFS-downloaded" />
+  </component>
+</application>

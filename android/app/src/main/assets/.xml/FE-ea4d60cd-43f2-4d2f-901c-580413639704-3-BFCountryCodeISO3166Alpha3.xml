@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BmF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" fp="0.0005" xmlns="http://schemas.microsoft.com/sqlserver/2012/01/DataClassificationAndRecommendations">
+	<BCL>
+		<BC fpr="0.0005" fpct="1" fprt="5E-07">
+			<BA0>
+				<B h="11" l="3943">
+					<M>hM7ZZhxtB6d80S5OnkzLn4GezdBVd7NCYLEqS4auLE/64og3EcfN5skQ+e7fCH98yGPBc38QRuUdOqWB3PTYEVx5nWo8li8zlkCinaaDaCu/R2/obSoMpKHs4YdeA08/bN2K6XcDXi4EpKTtkCapgppQA51rA7DZ/nV7xMJzEBcxWmMfA9HDM5x+0hcHRUaTZ4lLXsGSTpkJFhU2gdAq/2NVC4t4MwpBF74t2JAc9Ep+HVSyvnvKOCd5vhvZqoOVXhg77KGazKfJx0xlJf6WCNIh/qMtZYOn7UvRoQCIaAVLDyrIn2tVdu1TYxIQuODQPZxx1spykeqxK1WTjMdOhFGM4xFqmAm+Gl05YVM/7GOe1iuF1LBy8JBckNW84+SRGDjdg64DIfPH8NkOL54FbLrAspOldR6RZ9eNiw6Vzxgu7EMyVJ+gIOWUecvnNRhEksi+icaY66RHA8uj15Tr5yDkGpsZbGZqGFReGDGjTIo2nqbiLqWjTG0ZiucK+srH33ZwkopdlAYWjMoR9lHoENScsGX50+vWYoT65T/vd3sb/ZCJhPK+Vp0enaUpGJmjkFXAelG6DLc3fkyvTy8LwHTsqiYa/08VC4t+/wim0pOg3tOEGmGt3+qNFPj7aoYf0W2EB5NP9QgYAocCVg==</M>
+				</B>
+			</BA0>
+			<BA1>
+				<B h="1" l="2">
+					<M>AA==</M>
+				</B>
+			</BA1>
+			<FL0 />
+			<FL1 />
+		</BC>
+	</BCL>
+	<VT>
+		<V>1</V>
+	</VT>
+</BmF>

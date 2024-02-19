@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><GatewayResponse xmlns="http://www.intuit.com/2004/03/EntitlementGateway">
+<ResponseContent Id="MainContent">
+<ErrorInfo ErrorCode="0" Message="EG_e572bc91-f8db-4047-b02a-49a38d638c72: The transaction was successful." SupplementalErrorCode="0"></ErrorInfo>
+<EnablementResponse>
+<InteractionTransactionId></InteractionTransactionId>
+<Entitlements>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>456367</OfferingCode>
+<OfferingName>1099592</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>973785</OfferingCode>
+<OfferingName>1099599</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>444013</OfferingCode>
+<OfferingName>1099589</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>452569</OfferingCode>
+<OfferingName>1099768</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>183954</OfferingCode>
+<OfferingName>1101433</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>716396</OfferingCode>
+<OfferingName>1101437</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>919565</OfferingCode>
+<OfferingName>1400073</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>206661</OfferingCode>
+<OfferingName>1400076</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>181566</OfferingCode>
+<OfferingName>1101680</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>798597</OfferingCode>
+<OfferingName>1400145</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+<Entitlement>
+<LicenseNumber>875388659811036</LicenseNumber>
+<OfferingCode>241429</OfferingCode>
+<OfferingName>QB 2022 MR Enterprise v22 Direct Monthly Diamond Subs new_user 1-user</OfferingName>
+<EntitlementState>Enabled</EntitlementState>
+<EntitlementStateChangeDate>2022-02-01T01:10:30.000Z</EntitlementStateChangeDate>
+<CustomerId schemeName="MDM" type="CustomerAccountNumber">55826216</CustomerId>
+</Entitlement>
+</Entitlements>
+</EnablementResponse>
+</ResponseContent>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+<Reference URI="#MainContent">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+<DigestValue>C96f12S6chwDDr1/8Q7udUL645w=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+jCFaIl6fcPtYQMk1NHlJ8MuzdWDXdIcMjhexvipYOqzje58IajpG3jTDHuA3AJNkYuM+cAQI2whn
+j7LZWpRe6cTgecmRLWQb5NaVV+B7vMXRnM6ci7dN1rAp+84qkBIzEjKUlvc6IiAPckps+1LPg0gB
+N5w3BvlG/cx0T1/NvaQ=
+</SignatureValue>
+</Signature></GatewayResponse>

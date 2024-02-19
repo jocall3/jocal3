@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding='utf-8'?>
+<Settings xmlns="http://schemas.microsoft.com/sqlserver/2012/01/DataClassificationAndRecommendations" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1</Version>
+  <FeatureExtractorVersion>3</FeatureExtractorVersion>
+  <DownloadRetryCount>3</DownloadRetryCount>
+  <DefaultMinWeight>0.3</DefaultMinWeight>
+  <TaxonomyVersion>1</TaxonomyVersion>
+  <ClientDataTypeMapVersion>1</ClientDataTypeMapVersion>
+  <DecisionTreeVersion>1</DecisionTreeVersion>
+  <UploadClassificationPercentage>100</UploadClassificationPercentage>
+  <FeatureExtractionExecutionTime>60000</FeatureExtractionExecutionTime>
+  <HashType>SHA256</HashType>
+  <FeatureExtractorHash></FeatureExtractorHash>
+  <TaxonomyHash></TaxonomyHash>
+  <ClientDataTypeMapHash></ClientDataTypeMapHash>
+  <DecisionTreeHash></DecisionTreeHash>
+  <ClientDataTypeMapResourceHash></ClientDataTypeMapResourceHash>
+</Settings>

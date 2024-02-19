@@ -1,0 +1,47 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="AltInsertInEditor.html" value="1642645792089" />
+        <entry key="CodeCompletion.html" value="1641722838129" />
+        <entry key="CodeCompletionInSearch.html" value="1641722529230" />
+        <entry key="CommentCode.html" value="1642291640678" />
+        <entry key="CtrlDotInLookups.html" value="1642929039454" />
+        <entry key="CtrlW.html" value="1642645793480" />
+        <entry key="DBTableEditor.html" value="1641169955142" />
+        <entry key="DBTableViewForCSVFiles.html" value="1642081437100" />
+        <entry key="DeleteLine.html" value="1642291637507" />
+        <entry key="DiagramShowDiff.html" value="1642081464727" />
+        <entry key="EditRegExp.html" value="1641082044301" />
+        <entry key="Emmet.html" value="1642291545963" />
+        <entry key="EnablingZToolsIntegration.html" value="1641301192580" />
+        <entry key="FinishByExclamation.html" value="1641300968666" />
+        <entry key="FixDocComment.html" value="1641722812570" />
+        <entry key="GoToInspection.html" value="1641082046911" />
+        <entry key="HideWidgets.html" value="1641722832295" />
+        <entry key="IntroduceVariable.html" value="1641082015177" />
+        <entry key="JoinLines.html" value="1642803276565" />
+        <entry key="JupyterAddCell.html" value="1641169766904" />
+        <entry key="Kotlin_project.html" value="1642081500460" />
+        <entry key="LensMode.html" value="1642081512459" />
+        <entry key="MoveInnerToUpper.html" value="1641889487488" />
+        <entry key="MoveUpDown.html" value="1642291622835" />
+        <entry key="NavigateBetweenErrors.html" value="1641612260397" />
+        <entry key="PostfixCompletion.html" value="1642645685930" />
+        <entry key="QuickJavaDocInLookups.html" value="1641082048801" />
+        <entry key="Rename.html" value="1641301268730" />
+        <entry key="RunTests.html" value="1641889370156" />
+        <entry key="SecondBasicClassNameCompletion.html" value="1641722746008" />
+        <entry key="SecondSmartCompletionToar.html" value="1641889488097" />
+        <entry key="ShowUsages.html" value="1642081478320" />
+        <entry key="SpringGotoRelated.html" value="1642929039282" />
+        <entry key="SurroundWith.html" value="1642645793042" />
+        <entry key="Switcher.html" value="1642291643710" />
+        <entry key="UmlClassDiagram.html" value="1642291646678" />
+        <entry key="db_tip_forget_cached_schemas.html" value="1642926130498" />
+        <entry key="implement-using-completion.html" value="1642645793542" />
+        <entry key="search_everywhere_general.html" value="1641301088777" />
+      </map>
+    </option>
+  </component>
+</application>

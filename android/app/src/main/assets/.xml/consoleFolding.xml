@@ -1,0 +1,11 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="removedNegative">
+      <list>
+        <option value="at org.codehaus.groovy.runtime.DefaultGroovyMethods." />
+        <option value="at org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods." />
+        <option value="at org.codehaus.groovy.runtime.DefaultGroovyMethodsSupport." />
+      </list>
+    </option>
+  </component>
+</application>

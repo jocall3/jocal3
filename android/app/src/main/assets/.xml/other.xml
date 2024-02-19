@@ -1,0 +1,127 @@
+<application>
+  <component name="CCSettings">
+    <option name="isHtmlDefault" value="true" />
+  </component>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="22wyyREAgVAWqw7yVHTv8RlsbAC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="237P6vxcRCxrfDlNcQKpBtRHkrf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23mDVsGq9qsqgj88CLgfHqZ5S62">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24drdZrmBwvwYhotFuRYOIcMs2h">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TOOL_ORDER" value="TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TOOL_ORDER" value="TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TREE.LEFT" value="true" />
+    <property name="AzureToolkit.WhatsNew" value="3.58.0" />
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="Edu.CourseCreator.Enabled" value="true" />
+    <property name="Educational.recentCoursesFilled" value="true" />
+    <property name="Educational.stepikOAuthReset" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="Gherkin feature file" />
+    <property name="INSPECTION_FILTER_HISTORY" value="Exclude from auto-import and completion:" />
+    <property name="IdeErrorsDialog.LAST_OK_ACTION" value="REPORT_AND_CLEAR_ALL" />
+    <property name="KEYMAP" value="show" />
+    <property name="Markdown Split EditorLayout" value="Preview only" />
+    <property name="MarketplacePluginsSearchHistory" value="/tag:Keymap" />
+    <property name="NextRunPlatformUpdateBuild" value="IU-213.6777.52/2021.3.2" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.3.2" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="RunOnceActivity.123" value="true" />
+    <property name="SettingsSearchHistory" value="Exclude from auto-import and completion:" />
+    <property name="Subscription Email" value="jamesocallaghanprivatebank@gmail.com" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="azure_toolkit.function.core.tools.history" value="" />
+    <property name="bdt.lastUpdateCheck" value="1643965768351" />
+    <property name="bdt.lastUpdateInternalCheck" value="1642682248986" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="bundled.plugins.list.saved.version" value="IU-213.5744.223" />
+    <property name="com.github.amibiz.ergokeys.commandModeKeymapName" value="ErgoKeys (QWERTY)" />
+    <property name="com.github.amibiz.ergokeys.insertModeKeymapName" value="$default" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="duplicate.index.options.HTML.anonymizeAttributes" value="false" />
+    <property name="duplicate.index.options.HTML.anonymizeNames" value="false" />
+    <property name="duplicate.index.options.HTML.anonymizeText" value="false" />
+    <property name="duplicate.index.options.HTML.enabledLanguage" value="true" />
+    <property name="duplicate.index.options.XHTML.anonymizeAttributes" value="false" />
+    <property name="duplicate.index.options.XHTML.anonymizeNames" value="false" />
+    <property name="duplicate.index.options.XHTML.anonymizeText" value="false" />
+    <property name="duplicate.index.options.XHTML.enabledLanguage" value="true" />
+    <property name="duplicate.index.options.XML.anonymizeAttributes" value="false" />
+    <property name="duplicate.index.options.XML.anonymizeNames" value="false" />
+    <property name="duplicate.index.options.XML.anonymizeText" value="false" />
+    <property name="duplicate.index.options.XML.enabledLanguage" value="true" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.chooser.recent.files" value="C:/Users/QBDataServiceUser32/services.csv&#10;C:/Program Files/JetBrains/IntelliJ IDEA 2021.3/license/ant_license.txt&#10;C:/Users/QBDataServiceUser32/Downloads&#10;C:/Users/QBDataServiceUser32&#10;C:/Documents and Settings&#10;C:/&#10;C:/Users/user/.xml&#10;C:/Users/user/Downloads&#10;C:/Users/user/Application Data" />
+    <property name="file.colors.enable.non.project" value="" />
+    <property name="file.colors.enable.tests" value="" />
+    <property name="file.gist.reindex.count" value="63668" />
+    <property name="fileTypeChangedCounter" value="60" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="gotit.previous.run" value="IU-213.5744.223" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="ideavim.statistics.timestamp" value="1643965798102" />
+    <property name="installed.kotlin.plugin.version" value="213-1.5.10-release-949-IJ5744.223" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.console.preferencesSet" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="C:/Users/QBDataServiceUser32/services.csv" />
+    <property name="mt.autoReset" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1643965651796" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="registry.to.advanced.settings.migration.build" value="IU-213.5744.223" />
+    <property name="scala.last.updated" value="1643230707969" />
+    <property name="tabnine-notifications-shown-unsupported-cpu" value="true" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="tide.last.available.version" value="213.6234" />
+    <property name="tide.last.update.timestamp" value="1643200927044" />
+    <property name="ts.lib.d.ts.version" value="4.4.4" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="PREFER_FROM_IMPORT" value="false" />
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+</application>

@@ -1,0 +1,33 @@
+<application>
+  <component name="WindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1289" y="770" width="300" height="209" key="ProcessPopupWindow" timestamp="1643301911972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1289" y="770" width="300" height="209" key="ProcessPopupWindow/0.0.1920.1040" timestamp="1643301911972" />
+    <state x="1289" y="649" width="300" height="175" key="ProcessPopupWindow/0.0.1920.876" timestamp="1641693556954" />
+    <state x="1289" y="740" width="300" height="200" key="ProcessPopupWindow/0.0.1920.999" timestamp="1642654378699" />
+    <state x="960" y="433" width="800" height="600" key="WELCOME_SCREEN" timestamp="1641951532662">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="960" y="433" width="800" height="600" key="WELCOME_SCREEN/0.0.1920.999" timestamp="1641951532662" />
+    <state width="300" height="484" key="manage.recent.projects.popup" timestamp="1641118048686">
+      <screen x="0" y="0" width="1920" height="876" />
+    </state>
+    <state width="300" height="484" key="manage.recent.projects.popup/0.0.1920.876" timestamp="1641118048686" />
+    <state x="471" y="3" key="new project wizard" timestamp="1641081980148">
+      <screen x="0" y="0" width="1920" height="876" />
+    </state>
+    <state x="471" y="3" key="new project wizard/0.0.1920.876" timestamp="1641081980148" />
+  </component>
+</application>

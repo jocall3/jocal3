@@ -1,0 +1,77 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="untitled4" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2038000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25036126" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.330314" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Endpoints" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="File Transfer" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Space Automation" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Layout Validation" order="2" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Event Log</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="430" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641082198625">
+      <screen x="0" y="0" width="1920" height="876" />
+    </state>
+    <state x="430" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.876@0.0.1920.876" timestamp="1641082198625" />
+    <state x="740" y="193" key="FileChooserDialogImpl" timestamp="1641082145064">
+      <screen x="0" y="0" width="1920" height="876" />
+    </state>
+    <state x="740" y="193" key="FileChooserDialogImpl/0.0.1920.876@0.0.1920.876" timestamp="1641082145064" />
+    <state x="360" y="120" width="1200" height="636" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1641082330216">
+      <screen x="0" y="0" width="1920" height="876" />
+    </state>
+    <state x="360" y="120" width="1200" height="636" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.876@0.0.1920.876" timestamp="1641082330216" />
+  </component>
+</project>

@@ -1,0 +1,62 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="1" />
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
+    <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="Scala.ScalaMethodChainInlayHintsSettingsModel" />
+  </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseArrayLiterals" value="true" />
+    <option name="collapseObjectLiterals" value="true" />
+    <option name="collapseOneLineFunctions" value="true" />
+    <option name="collapseXmlLiterals" value="true" />
+    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
+    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
+    <option name="COLLAPSE_XML_LITERALS" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseAnnotations" value="true" />
+    <option name="collapseEndOfLineComments" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+    <option name="collapseMultilineComments" value="true" />
+    <option name="replaceVarWithInferredType" value="true" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_PHP_TAGS" value="true" />
+    <option name="COLLAPSE_HERE_DOCS" value="true" />
+    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
+    <option name="COLLAPSE_METHOD_BODY" value="true" />
+    <option name="COLLAPSE_CLASSES" value="true" />
+  </component>
+  <component name="PropertiesFoldingSettings">
+    <option name="foldPlaceholdersToContext" value="true" />
+  </component>
+  <component name="PythonFoldingSettings">
+    <option name="COLLAPSE_LONG_STRINGS" value="true" />
+    <option name="COLLAPSE_LONG_COLLECTIONS" value="true" />
+    <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
+  </component>
+  <component name="ScalaCodeFoldingSettings">
+    <option name="collapseCustomRegions" value="true" />
+    <option name="collapseDefinitionWithAssignmentBodies" value="true" />
+    <option name="collapseMethodCallBodies" value="true" />
+    <option name="collapseMultilineStrings" value="true" />
+    <option name="collapsePackagings" value="true" />
+    <option name="collapseTemplateBodies" value="true" />
+    <option name="collapseTypeLambdas" value="true" />
+  </component>
+</application>

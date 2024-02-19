@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ziptestdata">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Programs/Python/Python310/Lib/test/test_importlib/zipdata02/ziptestdata.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

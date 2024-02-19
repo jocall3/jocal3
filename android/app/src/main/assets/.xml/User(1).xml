@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="User">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Microsoft/Office/16.0/PowerQuery/User.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

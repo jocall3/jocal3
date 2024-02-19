@@ -1,0 +1,610 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="3" l="1643233172781" />
+    </e>
+    <e n="$Undo">
+      <i c="8" l="1641172774850" />
+    </e>
+    <e n="Actions.WhatsNew">
+      <i c="47" l="1643973171580" />
+    </e>
+    <e n="ActivateAzureResourceConnectorToolWindow">
+      <i c="1" d="1" l="1641163180794" k="1641163180794" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="1" l="1641613382497" />
+    </e>
+    <e n="Android.ExportProjectZip">
+      <i c="2" l="1642851305393" />
+    </e>
+    <e n="Android.RunAndroidAvdManager">
+      <i c="1" l="1642319502551" />
+    </e>
+    <e n="AndroidConnectDebuggerAction">
+      <i c="1" l="1642970917475" />
+    </e>
+    <e n="Back">
+      <i c="2" l="1643232618168" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="4" l="1641912465040" />
+    </e>
+    <e n="CallSaul">
+      <i c="1" l="1643301976408" />
+    </e>
+    <e n="ChangesView.Changelists">
+      <i c="1" l="1643181316024" />
+    </e>
+    <e n="ChangesView.GroupBy">
+      <i c="3" l="1643181349355" />
+    </e>
+    <e n="ChangesView.Refresh">
+      <i c="4" l="1642881334064" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="2" l="1642099318595" />
+    </e>
+    <e n="ChangesView.ShelveSilently">
+      <i c="7" l="1642934496130" />
+    </e>
+    <e n="CheckinProject">
+      <i c="2" l="1642099429045" />
+    </e>
+    <e n="CloseAllEditors">
+      <i c="73" l="1642944017161" />
+    </e>
+    <e n="CloseAllUnmodifiedEditors">
+      <i c="1" l="1641694700234" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="3" l="1642331226964" />
+    </e>
+    <e n="CompactListItemsAction">
+      <i c="1" l="1643161512237" />
+    </e>
+    <e n="CompileDirty">
+      <i c="8" l="1642943984959" />
+    </e>
+    <e n="ConfigureEditorTabs">
+      <i c="1" l="1643177765846" />
+    </e>
+    <e n="ConfigureSpecificationSources">
+      <i c="1" l="1643158083760" />
+    </e>
+    <e n="Console.Jdbc.ChooseSchema">
+      <i c="1" l="1641891507433" />
+    </e>
+    <e n="Console.Jdbc.ChooseSession">
+      <i c="1" l="1641891505105" />
+    </e>
+    <e n="Console.TableResult.AddRow">
+      <i c="2" l="1642647516849" />
+    </e>
+    <e n="Console.TableResult.AggregateView">
+      <i c="1" l="1642647709359" />
+    </e>
+    <e n="Console.TableResult.ChooseExtractor">
+      <i c="1" l="1642647560426" />
+    </e>
+    <e n="Console.TableResult.CompareWith">
+      <i c="2" l="1642647560567" />
+    </e>
+    <e n="Console.TableResult.Options">
+      <i c="3" l="1642647666251" />
+    </e>
+    <e n="Console.Transaction.TxSettings">
+      <i c="2" l="1641891521729" />
+    </e>
+    <e n="DSM.Analyze">
+      <i c="1" l="1643164469975" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="2" l="1642333131403" />
+    </e>
+    <e n="DatabaseView.AddDriverAndDataSource">
+      <i c="1" l="1641156748344" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="958" l="1643301603630" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1641172722838" />
+    </e>
+    <e n="EditorCopy">
+      <i c="3" l="1643199440277" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="7" l="1642647438087" />
+    </e>
+    <e n="EditorDown">
+      <i c="10" l="1643301459724" />
+    </e>
+    <e n="EditorEnter">
+      <i c="10" l="1643157477890" />
+    </e>
+    <e n="EditorLeft">
+      <i c="16" l="1641170935112" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="94" l="1641706981225" />
+    </e>
+    <e n="EditorPaste">
+      <i c="6" l="1641172814428" />
+    </e>
+    <e n="EditorRight">
+      <i c="59" l="1641172647379" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="136" l="1643302451461" />
+    </e>
+    <e n="EndpointsActions.OptionsMenu">
+      <i c="6" l="1643161505487" />
+    </e>
+    <e n="ExpandAll">
+      <i c="4" l="1643237631553" />
+    </e>
+    <e n="ExportToEclipse">
+      <i c="1" l="1643301930565" />
+    </e>
+    <e n="FileChooser.Delete">
+      <i c="1" l="1643177460581" />
+    </e>
+    <e n="FileChooser.GotoDesktop">
+      <i c="1" l="1643230817184" />
+    </e>
+    <e n="FileChooser.GotoHome">
+      <i c="2" l="1643230814793" />
+    </e>
+    <e n="FileChooser.GotoProject">
+      <i c="1" l="1643230123174" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="2" l="1643230818731" />
+    </e>
+    <e n="FileChooser.Refresh">
+      <i c="1" l="1643320991079" />
+    </e>
+    <e n="FileChooser.ShowHiddens">
+      <i c="1" l="1643177618831" />
+    </e>
+    <e n="Generate">
+      <i c="1" l="1643164307824" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="3" l="1642879315831" />
+    </e>
+    <e n="Git.Log.Branches.Navigate.Log.To.Branch.On.Selection">
+      <i c="1" l="1642099488558" />
+    </e>
+    <e n="Git.Log.Branches.Settings">
+      <i c="3" l="1642099501292" />
+    </e>
+    <e n="GotoClass">
+      <i c="1" l="1641722916287" />
+    </e>
+    <e n="GotoFile">
+      <i c="2" l="1641911836879" />
+    </e>
+    <e n="HTTPClient.Convert">
+      <i c="3" l="1643177374812" />
+    </e>
+    <e n="HTTPClient.OpenCollection">
+      <i c="1" l="1643172769189" />
+    </e>
+    <e n="HTTPClient.RunAll">
+      <i c="8" l="1643173723972" />
+    </e>
+    <e n="HTTPClientNewEnvironmentFile">
+      <i c="1" l="1643177370831" />
+    </e>
+    <e n="InspectCode">
+      <i c="5" l="1643165537974" />
+    </e>
+    <e n="List-selectNextColumn">
+      <i c="1" l="1642331227845" />
+    </e>
+    <e n="LocalHistory.ShowHistory">
+      <i c="1" l="1641082164438" />
+    </e>
+    <e n="ManageRecentProjects">
+      <i c="1" l="1641118018250" />
+    </e>
+    <e n="NewScratchFile">
+      <i c="1" l="1642859456912" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1641082127971" />
+    </e>
+    <e n="PhpDetectPsroRoots">
+      <i c="1" l="1643164346557" />
+    </e>
+    <e n="PhpListenDebugAction">
+      <i c="5" l="1643179022686" />
+    </e>
+    <e n="ProblemsView.OpenInPreviewTab">
+      <i c="1" l="1642653792094" />
+    </e>
+    <e n="ProjectView.AbbreviatePackageNames">
+      <i c="1" l="1642874771893" />
+    </e>
+    <e n="ProjectView.FileNesting">
+      <i c="1" l="1642874708552" />
+    </e>
+    <e n="ProjectView.FlattenPackages">
+      <i c="1" l="1642874752206" />
+    </e>
+    <e n="ProjectView.SortByType">
+      <i c="1" l="1642874766050" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1641164274313" />
+    </e>
+    <e n="QuickPreview">
+      <i c="4" l="1641693970727" />
+    </e>
+    <e n="RESTClient.RequestFromLegacyFiles">
+      <i c="2" l="1643177385097" />
+    </e>
+    <e n="RecentFiles">
+      <i c="1" l="1642333013637" />
+    </e>
+    <e n="RecentLocations">
+      <i c="1" l="1643224889405" />
+    </e>
+    <e n="RefreshTmsDataAction">
+      <i c="1" l="1643200980496" />
+    </e>
+    <e n="RestartIde">
+      <i c="2" l="1642292293863" />
+    </e>
+    <e n="RunDashboard.AddType">
+      <i c="1" l="1641912598241" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1641162684708" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="45" l="1643179026643" />
+    </e>
+    <e n="ServiceView.AddService">
+      <i c="2" l="1643320046478" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="22" l="1643183625288" />
+    </e>
+    <e n="ShowFromLibrariesAction">
+      <i c="1" l="1643161221747" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1643301276174" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="2" l="1641890330986" />
+    </e>
+    <e n="ShowSettings">
+      <i c="6" l="1642855446518" />
+    </e>
+    <e n="ShowSidePanelAction">
+      <i c="2" l="1643161768994" />
+    </e>
+    <e n="ShowWholeProjectMicroservicesDiagram">
+      <i c="20" l="1643247474706" />
+    </e>
+    <e n="TabList">
+      <i c="1" l="1641693989460" />
+    </e>
+    <e n="Table-selectNextRow">
+      <i c="9" l="1641702044744" />
+    </e>
+    <e n="TmsSettingsAction">
+      <i c="2" l="1642094022153" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="7" l="1643301142678" />
+    </e>
+    <e n="TogglePresentationMode">
+      <i c="1" l="1642854122436" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="292" l="1642304568037" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="4876" l="1641891258738" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="51" l="1641723102275" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="414" l="1641723106543" />
+    </e>
+    <e n="UnresolvedTmsLinkInspectionRunAction">
+      <i c="1" l="1643200974652" />
+    </e>
+    <e n="Vcs.Log.GoToRef">
+      <i c="1" l="1641159714561" />
+    </e>
+    <e n="Vcs.ToggleAmendCommitMode">
+      <i c="4" l="1642099400733" />
+    </e>
+    <e n="WebDeployment.Configuration">
+      <i c="1" l="1641163227840" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1641081921791" />
+    </e>
+    <e n="aws.settings.upsertCredentials">
+      <i c="5" l="1642646524865" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$GearAction">
+      <i c="1" l="1643144186907" />
+    </e>
+    <e n="com.android.tools.idea.appinspection.ide.ui.SelectProcessAction">
+      <i c="1" l="1642935108514" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="3" l="1643178482829" />
+    </e>
+    <e n="com.intellij.cloudConfig.CloudConfigSyncSettingsAction">
+      <i c="1" l="1642647583550" />
+    </e>
+    <e n="com.intellij.cloudConfig.CloudConfigWidget$1">
+      <i c="1" l="1642305891059" />
+    </e>
+    <e n="com.intellij.codeInsight.actions.ReaderModeActionProvider$ReaderModeAction">
+      <i c="1" l="1641909564862" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.ConfigureInspectionsAction">
+      <i c="1" l="1642862164489" />
+    </e>
+    <e n="com.intellij.database.actions.DatabaseViewActions$1">
+      <i c="7" l="1643296801282" />
+    </e>
+    <e n="com.intellij.database.view.DatabaseView$4">
+      <i c="1" l="1643296783063" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="3" l="1643144880404" />
+    </e>
+    <e n="com.intellij.diagnostic.LowMemoryNotifier$2">
+      <i c="3" l="1643156003085" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="6" l="1642333225779" />
+    </e>
+    <e n="com.intellij.execution.services.ServiceViewSourceScrollHelper$ScrollFromEditorAction">
+      <i c="1" l="1643178983756" />
+    </e>
+    <e n="com.intellij.framework.addSupport.impl.AddFrameworkSupportInProjectStructureAction">
+      <i c="1" l="1642653551683" />
+    </e>
+    <e n="com.intellij.framework.detection.impl.FrameworkDetectionManager$4">
+      <i c="2" l="1642933133200" />
+    </e>
+    <e n="com.intellij.ide.actions.CollapseAllAction">
+      <i c="1" l="1643183248817" />
+    </e>
+    <e n="com.intellij.ide.actions.ExpandAllAction">
+      <i c="1" l="1643183249988" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="8" l="1642678160027" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolWindowViewModeAction">
+      <i c="5" l="1643296807781" />
+    </e>
+    <e n="com.intellij.ide.actions.runAnything.RunAnythingPopupUI$9">
+      <i c="1" l="1642678167158" />
+    </e>
+    <e n="com.intellij.ide.actions.searcheverywhere.AbstractGotoSEContributor$2">
+      <i c="1" l="1641892415255" />
+    </e>
+    <e n="com.intellij.ide.actions.searcheverywhere.SearchEverywhereHeader$4">
+      <i c="4" l="1643179090301" />
+    </e>
+    <e n="com.intellij.ide.actions.searcheverywhere.SearchEverywhereUI$ShowInFindToolWindowAction">
+      <i c="2" l="1643179096379" />
+    </e>
+    <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
+      <i c="44" l="1642861835909" />
+    </e>
+    <e n="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6">
+      <i c="1" l="1642855900036" />
+    </e>
+    <e n="com.intellij.ide.impl.FlattenModulesToggleAction">
+      <i c="1" l="1643230235340" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$2">
+      <i c="1" l="1642874419004" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$3">
+      <i c="1" l="1642874447363" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$ChangePluginStateAction">
+      <i c="1" l="1642874465018" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$2">
+      <i c="3" l="1643295625367" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="6" l="1643227471577" />
+    </e>
+    <e n="com.intellij.ide.structureView.newStructureView.TreeActionWrapper">
+      <i c="7" l="1643183217677" />
+    </e>
+    <e n="com.intellij.ide.util.scopeChooser.ScopeChooserConfigurable$MyAddAction$1">
+      <i c="1" l="1642095763896" />
+    </e>
+    <e n="com.intellij.ide.util.scopeChooser.ScopeEditorPanel$ChooseScopeTypeAction$1">
+      <i c="2" l="1643233144173" />
+    </e>
+    <e n="com.intellij.ide.util.scopeChooser.ScopeEditorPanel$FilterLegalsAction">
+      <i c="1" l="1643230240605" />
+    </e>
+    <e n="com.intellij.notification.EventLogConsole$ClearLogAction">
+      <i c="27" l="1643241524016" />
+    </e>
+    <e n="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings">
+      <i c="2" l="1642653753440" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="21" l="1643321449140" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="4" l="1643183250488" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="1654" l="1643302204916" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$MarkupModelDelegateAction">
+      <i c="1" l="1641164626731" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="32" l="1643164054737" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.InspectionPopupManager$MenuAction">
+      <i c="1" l="1642862153958" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.TextEditorWithPreview$ChangeViewModeAction">
+      <i c="1" l="1643181704192" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="141" l="1643302055093" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$FindByShortcutAction">
+      <i c="1" l="1643178480454" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1641172556800" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbServiceImpl$3">
+      <i c="6" l="1642653841577" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction">
+      <i c="2" l="1641178503841" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.JavadocEditor$2">
+      <i c="4" l="1642653636771" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
+      <i c="1" l="1641178567226" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.AddFacetOfTypeAction">
+      <i c="2" l="1641178369125" />
+    </e>
+    <e n="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$1">
+      <i c="3" l="1642855565468" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.DockToolWindowAction">
+      <i c="1" l="1641179089173" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="89" l="1643297187259" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+      <i c="55" l="1643319764961" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$RemoveStripeButtonAction">
+      <i c="1" l="1641613002823" />
+    </e>
+    <e n="com.intellij.profile.codeInspection.ui.LevelChooserAction$1">
+      <i c="1" l="1642862264787" />
+    </e>
+    <e n="com.intellij.profile.codeInspection.ui.LevelChooserAction$HighlightSeverityAction">
+      <i c="4" l="1643178231193" />
+    </e>
+    <e n="com.intellij.profiler.ultimate.welcome.WelcomeScreenPanel$MyProcessesTree$createProcessColumnAction$$inlined$apply$lambda$1">
+      <i c="1" l="1641912643208" />
+    </e>
+    <e n="com.intellij.space.actions.SpaceMainToolBarAction">
+      <i c="17" l="1642333238653" />
+    </e>
+    <e n="com.intellij.space.auth.SpaceAuthNotifier$authFailed$tryAgainAction$1">
+      <i c="1" l="1642976592179" />
+    </e>
+    <e n="com.intellij.swagger.settings.ui.SwaggerConfigurable$createComponent$remoteSpecificationUrlsPanel$1$$special$$inlined$apply$lambda$2">
+      <i c="3" l="1643160188153" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="15" l="1643233067705" />
+    </e>
+    <e n="com.intellij.ui.AutoScrollFromSourceHandler$AutoScrollFromSourceAction">
+      <i c="1" l="1643181501531" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="58" l="1643232597784" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="32" l="1643230519584" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$UpButton">
+      <i c="1" l="1643230494975" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="2" l="1641722880690" />
+    </e>
+    <e n="com.jetbrains.bigdatatools.rfs.projectview.actions.RemoveConnectionsAction">
+      <i c="2" l="1641892361684" />
+    </e>
+    <e n="com.jetbrains.bigdatatools.rfs.projectview.toolwindow.BigDataToolWindowController$createToolBar$addConnectionAction$1">
+      <i c="3" l="1641892359934" />
+    </e>
+    <e n="com.jetbrains.plugins.webDeployment.ui.config.DeploymentServersEditor$AddServerAction">
+      <i c="1" l="1641163235791" />
+    </e>
+    <e n="com.jetbrains.test.ide.onboarding.editors.OnboardingPageWrappedAction">
+      <i c="6" l="1643224921779" />
+    </e>
+    <e n="com.jetbrains.test.ide.tms.data.actions.RefreshTmsDataAction">
+      <i c="9" l="1642098175357" />
+    </e>
+    <e n="com.jetbrains.test.ide.tms.settings.TmsSettingsConfigurableView$buildSettingsTableDecorator$$inlined$map$lambda$1">
+      <i c="2" l="1642093967030" />
+    </e>
+    <e n="com.kite.intellij.startup.KiteAutomaticInstallNotification$InstallNotification$1">
+      <i c="2" l="1641612901235" />
+    </e>
+    <e n="com.kite.intellij.startup.KiteDownloadPausedNotification$PausedNotification$1">
+      <i c="6" l="1643144454037" />
+    </e>
+    <e n="com.kite.intellij.startup.KiteInstallationFailedNotification$FailedNotification$1">
+      <i c="1" l="1641178825967" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
+      <i c="1" l="1641706897446" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$2">
+      <i c="1" l="1641179108225" />
+    </e>
+    <e n="de.halirutan.keypromoterx.KeyPromoterNotification$EditKeymapAction">
+      <i c="3" l="1643320063488" />
+    </e>
+    <e n="de.halirutan.keypromoterx.KeyPromoterNotification$SuppressTipAction">
+      <i c="5" l="1643167637574" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1642330936311" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$GitNewBranchAction">
+      <i c="1" l="1642332841384" />
+    </e>
+    <e n="git4idea.ui.branch.dashboard.BranchesDashboardActions$ToggleFavoriteAction">
+      <i c="2" l="1642099505448" />
+    </e>
+    <e n="org.editorconfig.configmanagement.extended.EditorConfigCodeStyleSettingsModifier$1">
+      <i c="1" l="1643157251123" />
+    </e>
+    <e n="org.intellij.plugins.intelliLang.InjectionsSettingsUI$6">
+      <i c="1" l="1643230780841" />
+    </e>
+    <e n="software.aws.toolkits.jetbrains.core.credentials.ConnectionSettingsMenuBuilder$SwitchCredentialsAction">
+      <i c="3" l="1642647331597" />
+    </e>
+    <e n="software.aws.toolkits.jetbrains.core.credentials.ConnectionSettingsMenuBuilder$SwitchRegionAction">
+      <i c="3" l="1642332045652" />
+    </e>
+    <e n="tasks.goto">
+      <i c="1" l="1642098395888" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="compiler.automake.allow.when.app.running" value="true" />
+        <entry key="documentation.components.enable.highlighting.of.links" value="true" />
+        <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
+        <entry key="git.use.schannel.on.windows" value="true" />
+        <entry key="vcs.push.all.with.commits" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

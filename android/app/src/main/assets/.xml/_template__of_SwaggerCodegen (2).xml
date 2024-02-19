@@ -1,0 +1,27 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="SwaggerCodegen" singleton="false">
+    <option name="activeConfigurationType" value="FILE" />
+    <option name="configurationPath" value="" />
+    <option name="customJreEnabled" value="false" />
+    <option name="customTemplatesPath" value="" />
+    <option name="enableDebugLogging" value="false" />
+    <option name="generateToPath" value="" />
+    <option name="generationParameters">
+      <list>
+        <CliArgumentViewModel>
+          <option name="name" value="" />
+          <option name="value" />
+        </CliArgumentViewModel>
+        <CliArgumentViewModel>
+          <option name="name" value="" />
+          <option name="value" />
+        </CliArgumentViewModel>
+      </list>
+    </option>
+    <option name="generatorPath" value="https://repo1.maven.org/maven2/org/openapitools/openapi-generator-cli/5.0.0/openapi-generator-cli-5.0.0.jar" />
+    <option name="jdkPath" value="17" />
+    <option name="language" value="" />
+    <option name="specificationPath" value="" />
+    <method v="2" />
+  </configuration>
+</component>

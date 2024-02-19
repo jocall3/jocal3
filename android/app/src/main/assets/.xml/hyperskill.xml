@@ -1,0 +1,9 @@
+<application>
+  <component name="HyperskillMetrics">
+    <events>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1643181187442" />
+      </HyperskillFrontendEvent>
+    </events>
+  </component>
+</application>

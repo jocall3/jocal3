@@ -1,0 +1,90 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.html" timestamp="1643230572176">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.sql" timestamp="1643230672001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1643230471820">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Scala Script.txt.ft" timestamp="1643228811598">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy." timestamp="1643230571317">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaFXApplication.txt.ft" timestamp="1643228822988">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1643230381494">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.js" timestamp="1643230624768">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Package Object.txt.ft" timestamp="1643228815254">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1643230686657">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Play 2 template.scala.txt.ft" timestamp="1643228825301">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.groovy" timestamp="1643230578676">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.java" timestamp="1643230594269">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.php" timestamp="1643230654611">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Gherkin feature file.txt.ft" timestamp="1643228826597">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.json" timestamp="1643230591347">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Scala Worksheet.txt.ft" timestamp="1643228818426">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.aws/config" timestamp="1643301069401">
+        <mark key="'" line="26" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.md" timestamp="1643230657829">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="25" column="21" filename="$USER_HOME$/.aws/config" />
+      <jump line="26" column="23" filename="$USER_HOME$/.aws/config" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="8">
+        <text encoding="base64">IyBBbWF6b24gV2ViIFNlcnZpY2VzIENvCiMgVGhpcyBmaWxlIHdhcyBjcmVhdGVkIAojCiMgWW91ciBBV1MgY3JlZGVudGlhbHMgYQojIEZvciBpbmZvcm1hdGlvbiBhYm91dCAKIyBodHRwczovL2RvY3MuYXdzLmFtYXpvCiMKIyBUaGlzIGNvbmZpZyBmaWxlIGNhbiBzCiMgbmFtZWQgInByb2ZpbGUiLiBGb3IgaQojIHByb2ZpbGUgb3IgdG8gYWRkIGEgbmUKIyBodHRwczovL2RvY3MuYXdzLmFtYXpvCiMKIyBJZiBib3RoIGEgY3JlZGVudGlhbCBhCiMgdGFrZSBwcmVjZWRlbmNlCiAgICAgICAgICAgICAgICAgICAgICAgIApbZGVmYXVsdF0KIyBUaGUgYWNjZXNzIGtleSBhbmQgc2VjCmF3c19hY2Nlc3Nfa2V5X2lkID0gW2FjYwojIFRyZWF0IHlvdXIgc2VjcmV0IGtleSAKIyBub3QgcG9zdCBpdCBpbiBvbmxpbmUgCiMga2V5IGlzIGV2ZXIgZGlzY2xvc2VkLAojIGFuZCBjcmVhdGUgYSBuZXcga2V5IHAKYXdzX3NlY3JldF9hY2Nlc3Nfa2V5ID0gCiAgICAgICAgICAgICAgICAgICAgICAgIAojIFtwcm9maWxlIHVzZXIxXQojIGF3c19hY2Nlc3Nfa2V5X2lkID0KIyBhd3Nfc2VjcmV0X2FjY2Vzc19rZXkg</text>
+      </register>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyBBbWF6b24gV2ViIFNlcnZpY2VzIENvCiMgVGhpcyBmaWxlIHdhcyBjcmVhdGVkIAojCiMgWW91ciBBV1MgY3JlZGVudGlhbHMgYQojIEZvciBpbmZvcm1hdGlvbiBhYm91dCAKIyBodHRwczovL2RvY3MuYXdzLmFtYXpvCiMKIyBUaGlzIGNvbmZpZyBmaWxlIGNhbiBzCiMgbmFtZWQgInByb2ZpbGUiLiBGb3IgaQojIHByb2ZpbGUgb3IgdG8gYWRkIGEgbmUKIyBodHRwczovL2RvY3MuYXdzLmFtYXpvCiMKIyBJZiBib3RoIGEgY3JlZGVudGlhbCBhCiMgdGFrZSBwcmVjZWRlbmNlCiAgICAgICAgICAgICAgICAgICAgICAgIApbZGVmYXVsdF0KIyBUaGUgYWNjZXNzIGtleSBhbmQgc2VjCmF3c19hY2Nlc3Nfa2V5X2lkID0gW2FjYwojIFRyZWF0IHlvdXIgc2VjcmV0IGtleSAKIyBub3QgcG9zdCBpdCBpbiBvbmxpbmUgCiMga2V5IGlzIGV2ZXIgZGlzY2xvc2VkLAojIGFuZCBjcmVhdGUgYSBuZXcga2V5IHAKYXdzX3NlY3JldF9hY2Nlc3Nfa2V5ID0gCiAgICAgICAgICAgICAgICAgICAgICAgIAojIFtwcm9maWxlIHVzZXIxXQojIGF3c19hY2Nlc3Nfa2V5X2lkID0KIyBhd3Nfc2VjcmV0X2FjY2Vzc19rZXkg</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PQ==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

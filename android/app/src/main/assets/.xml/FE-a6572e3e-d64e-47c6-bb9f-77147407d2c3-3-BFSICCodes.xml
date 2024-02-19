@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BmF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" fp="0.0005" xmlns="http://schemas.microsoft.com/sqlserver/2012/01/DataClassificationAndRecommendations">
+	<BCL>
+		<BC fpr="0.0005" fpct="1" fprt="5E-07">
+			<BA0>
+				<B h="11" l="7027">
+					<M>RNeIrjjQPJmbWYpkP98btXbUEMJ+VPQEeM65ZFjEpB+d+ClFL99TnpDK9UQwqGpaUXm4Ih6/9Zb9f14Ih6m9TSRL3YzukgXvmL3ZSk4l0UfPh7Lw1WkO534v2iljsFjsgNJpf+IJefVU5ektQuZTQguLlniBQUw6SG6OX3O+GIElzGZNi8S9cZfIlQyMsFBk2+I01/j1WANe+UAY2+9rDWEvJ9j+vX8IyPcsxKXCbZPXgTwW+cbX7JBtTTY48ptKMC+9NSzN/4JgRgbadrMnv914qBWWGnRIl43f1OAtnsj/sR1XFaMDFfhEE7JSNmuYQyP0Su9rwfnAa7v3ApwkN1MVTq3C8pHdl0JWP8mry5Bu/yZBWShCcUhn6EQ1sHN8Kn2qUmoBilguLV9zkJz/epbrBBHVTru+SmgnUp78PPC+06jxbuUS+mF0JQCC/fSYZZTg03cdzP1PDE/ljC8qgO1nsYRZn4HbYVvy4vkyLpGsKJ/3n+MXzYdMAIjHpKjuqT9NZDnRM8SFOV0hc14ijcZp6WE9RXAdQt/18bffEExjkPYGiEvaeUOaCXSSDDGkIQ/l5Lfwls1PmM9lMIugIfFvW56sw7sSXjWVyTw1J0ZED+n4ma6olv2SPsyDqg+MNvxpQIM5YH1gk8klqkXAqsoLpQd7V7PD2tkzkiibrWm7jjc2SK7zvXrmUzMPAzL8nNl5PvEcPNi7TOquRHuZHDKe1xrrbkXT5eQSEr/KYEP4naACx0u+AfNQvQm9SS4JUDU2It8+BVpdX51gaCIcTwWO0iVGVnQYVFEWgR7wbwoDE8K37y7OMiDzzq72mNm0ljoebPnxdCYKLFBJYT33wWyX7EItMF64fmRbEUNLFMmmIO5FoF+sKwqobMmYiZ7hVJwHQ33rmJBXq48Nejy/DkBkDUP8RZJK85Lxx7qvWZ1GQdJvhgG+sNUjeLLxb3Ou3rSAUBs3nNGyvw8GSaob3lkyIK0TaPeLcIWUVZ0vQZzJKBFK1r/xpdBp5+E4DjUo2x7p/ab4C9KOHbufOH++q8LPQyVgt+yJXi96DfZPb08t0Yfcyr0h4UCCvu0CfMl9v3zKX0AEKTkklXK7FaH9IKA83cLlQdAedoqYNGEEqDDA1+9SvdbJ/BMn+Ybw3p/D6hOjio/oQiYzcLnEVmoA</M>
+				</B>
+			</BA0>
+			<BA1>
+				<B h="1" l="2">
+					<M>AA==</M>
+				</B>
+			</BA1>
+			<FL0 />
+			<FL1 />
+		</BC>
+	</BCL>
+	<VT>
+		<V>1</V>
+	</VT>
+</BmF>

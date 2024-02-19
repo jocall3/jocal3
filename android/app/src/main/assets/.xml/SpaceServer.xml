@@ -1,0 +1,9 @@
+<application>
+  <component name="SpaceServerConfigurable">
+    <option name="serverSettings">
+      <SpaceServerSettings>
+        <option name="server" value="https://jamesocallaghanprivatebank.jetbrains.space" />
+      </SpaceServerSettings>
+    </option>
+  </component>
+</application>

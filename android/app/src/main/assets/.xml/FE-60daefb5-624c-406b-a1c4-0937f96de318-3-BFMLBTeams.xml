@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BmF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" fp="0.0005" xmlns="http://schemas.microsoft.com/sqlserver/2012/01/DataClassificationAndRecommendations">
+	<BCL>
+		<BC fpr="0.0005" fpct="1" fprt="5E-07">
+			<BA0>
+				<B h="11" l="9199">
+					<M>/dmh2nm1dVPyhx6bXj/6i4TU7qoFu8tisnVOEKbhGPzsqkEVh9th7ZslNZw/b1DrYRekUQa0xlNHYqM6gGrHQQj9HZCao/iAltUXNcqA+UEcPF8A5GsvAyWhiNPsZBa/Z2Ex2zGlqpLKzTicWjlu8aFFXCJ6/waFaImaJziAlcuJuDXd3x/4mBoU6mfBa+CCRRx8l3MgavcqlLVQ33hbMdGLoWpLanEw8mcnz5VEM9mH+LaIRzVr0Rpn//S/9edJRe3aZNDCQo7N5Yxsg4FtZhO0yYT72Iifo+LsJoW7/mtrND3CZ+Ddq92pqPOsCvoAywdcjyFn6sCYJfBupo0bvDavCy8h1fvCJ+XeI9+7q2AFnI+shA8KCxHAE8G/nsUOvbio1D4kyfOeCnVqVZ6Y3HWm09W2T4YurPFmeR1FLiYLWTUbID2/SMVE9hxSaD1AnGIAe7QYUKCVLVCEUzA9TQuxVgzmLTVnuFDgJ1RJVjDg8h+p2ObZJZgjfbpuuKGQQSQ0Iapq2X0v6lPXaVm5VXIHfto25jEnFGiT4//y+RQB2g5JvLvNWwM7MOTBfsL41wGzA3mkjcYDRQgvMxB2OzCsWITi5ppvu6UV8SBo+K1wZZBPvsMtMZoX8CHl4K07LtYga9/d5OhfXh6ew8OT4Hv3Ei1hf6NeYTi+EeTUz2UGE4GyQvZK9IUNC15QNU5tZzLOJiitd7NcS+wAq3kPuDGNN3OV2zju1ZmEFnlPr1wx5igD1K0YoBjugef5aPyCwTRovST2BX0r/yRIlmllqIrDtqcSbe3+u/fBnMtjSpYVnPY1AtSS8gMIwo3WF2n4QoUKmPFUP2jm57BkYjKx4hV4KoaMpY9tHRj2Y2ppjFXbL33cfTqdVjFVSB8T6JyhT92W+wxJb73jGfot/NC/hm+Bi7V08qxqIMYDQzq2jE6ZW0nJrxDpUPsv8cHpAvFGoKNK+9tfhz1IRAOwAYLkNhXxRkrfI03MpsL4wsmuQypM4H/yhZDYHPJqKqGYdwuKGnQHeDF7i8Pe+K6r2rjV4zVH+PPfilxt/gRET9jXc4zxGjLOI2JkHgTCG9jpkxxIXAM3p5tsuPZFYcQuLD1PwY2qUghIBOhNaGuKV3Xdnjy+nTdGCg326BbZrUld/bsAQ32EXo8WdwrUCFOFr3FLWC9tUABOd4pT4H2ApCWSL+xCPCD89OQBOPqonrE6k4dPhiWqc1gM4e1Od5BSH9ZOVa5hSBJROiIhYtEjT1FSBjekHQRbd0cGeOJCw0gaohe3NeYGcejXgA8SvYXsk7KtHGzP2/rJFfz18Pfyto/d3gDlVBS6qYfsDgazOeOZX/00k4AMqViF2zx3S0H891n7dPjSRwfbkvsv68ooh3k9XmpM/jAlZsrZE7z4ZCZHa8U5con4kbKOYLy8HTNwuUWeo9ATL2O9zUrdKljVQKzHYEPvWXR1s7Et7MyjFOyiNgAoFUdF2r66MqJd0q/n0BZycmB7ApPKzT5/DFK5TIdzCXtKFmoGtXGjcwpOLxcjTQ==</M>
+				</B>
+			</BA0>
+			<BA1>
+				<B h="1" l="2">
+					<M>AA==</M>
+				</B>
+			</BA1>
+			<FL0 />
+			<FL1 />
+		</BC>
+	</BCL>
+	<VT>
+		<V>1</V>
+	</VT>
+</BmF>

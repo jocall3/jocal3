@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<req ver="2">
+ <tlm>
+  <src>
+   <desc>
+    <mach>
+     <os>
+      <arg nm="vermaj" val="10"/>
+      <arg nm="vermin" val="0"/>
+      <arg nm="verbld" val="19043"/>
+      <arg nm="vercsdbld" val="1415"/>
+      <arg nm="verqfe" val="1415"/>
+      <arg nm="csdbld" val="1415"/>
+      <arg nm="versp" val="0"/>
+      <arg nm="arch" val="9"/>
+      <arg nm="lcid" val="1033"/>
+      <arg nm="geoid" val="244"/>
+      <arg nm="sku" val="101"/>
+      <arg nm="domain" val="0"/>
+      <arg nm="portos" val="0"/>
+      <arg nm="ram" val="3998"/>
+      <arg nm="svolsz" val="916"/>
+      <arg nm="wimbt" val="0"/>
+      <arg nm="blddt" val="191206"/>
+      <arg nm="bldtm" val="1406"/>
+      <arg nm="bldbrch" val="vb_release"/>
+      <arg nm="os" val="Windows"/>
+      <arg nm="osver" val="10.0.19041.1415.amd64fre.vb_release.191206-1406"/>
+      <arg nm="buildflightid" val=""/>
+      <arg nm="expid" val=""/>
+      <arg nm="edition" val="Core"/>
+     </os>
+     <hw>
+      <arg nm="form" val="1"/>
+      <arg nm="arch" val="9"/>
+      <arg nm="deviceclass" val="Windows.Desktop"/>
+      <arg nm="sysmfg" val="HP"/>
+      <arg nm="syspro" val="20-c013w"/>
+      <arg nm="bv" val="F.51"/>
+      <arg nm="ram" val="4096"/>
+      <arg nm="proccnt" val="2"/>
+      <arg nm="proclsp" val="1600"/>
+      <arg nm="wscpusc" val="0"/>
+      <arg nm="wsdsksc" val="0"/>
+      <arg nm="wscpudn" val="Intel(R) Celeron(R) CPU  J3060  @ 1.60GHz"/>
+      <arg nm="wsdgsc" val="0"/>
+      <arg nm="aoac" val="0"/>
+      <arg nm="bssku" val="V8N95AA#ABA"/>
+      <arg nm="chid" val="{2ada3f65-ef66-5a67-b283-76367832d7fc}"/>
+      <arg nm="sdksz" val="931"/>
+     </hw>
+     <ctrl>
+      <arg nm="mid" val="C5E254B6-7823-4A16-99F0-5E54AB3E598C"/>
+      <arg nm="sample" val="18389962"/>
+      <arg nm="msft" val="0"/>
+      <arg nm="test" val="0"/>
+      <arg nm="scf" val="0"/>
+      <arg nm="commercialid" val=""/>
+      <arg nm="telemetry" val="Disabled"/>
+     </ctrl>
+    </mach>
+   </desc>
+  </src>
+  <reqs>
+   <req key="1">
+    <namespace svc="watson" ptr="generic" gp="generic" app="msedge.exe">
+     <arg nm="p1" val="msedge.exe"/>
+     <arg nm="p2" val="97.0.1072.55"/>
+     <arg nm="p3" val="webui-history"/>
+     <arg nm="p4" val="4244586C83816EABBEFD26F167BE33E331757AFF"/>
+     <arg nm="p5" val="TypeError"/>
+     <arg nm="p6" val="Unknown"/>
+     <arg nm="p7" val="9_16558"/>
+    </namespace>
+    <ctrl>
+     <arg nm="reportid" val="ce30d847-426e-407e-8078-d46ddbf57603"/>
+     <arg nm="procmeta.Channel" val="none"/>
+     <arg nm="procmeta.JavaScriptErrorMessage" val="Cannot read properties of null (reading 'itemId')"/>
+     <arg nm="procmeta.MetricsClientId" val="f0d1942b-9188-45ef-bdbb-01dfdecf7164"/>
+     <arg nm="procmeta.MetricsClientIdHash" val="5445128206035747460"/>
+     <arg nm="procmeta.MetricsSessionId" val="911"/>
+     <arg nm="procmeta.OfficialBuild" val="1"/>
+    </ctrl>
+    <cmd nm="event">
+     <arg nm="eventtype" val="crashpad_jserror"/>
+     <arg nm="cat" val="generic"/>
+     <arg nm="p1" val="msedge.exe"/>
+     <arg nm="p2" val="97.0.1072.55"/>
+     <arg nm="p3" val="webui-history"/>
+     <arg nm="p4" val="4244586C83816EABBEFD26F167BE33E331757AFF"/>
+     <arg nm="p5" val="TypeError"/>
+     <arg nm="p6" val="Unknown"/>
+     <arg nm="p7" val="9_16558"/>
+    </cmd>
+   </req>
+  </reqs>
+ </tlm>
+</req>

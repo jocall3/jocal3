@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>396388913555-e36tcgg83bqb3f6i3qf6d0vnk2p4nf9j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.396388913555-e36tcgg83bqb3f6i3qf6d0vnk2p4nf9j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAL5wF_KLFcc3exRDYO7yWf1L2eF-NsROU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>396388913555</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Com.company.appname</string>
+	<key>PROJECT_ID</key>
+	<string>speedy-octane-345117</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speedy-octane-345117.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:396388913555:ios:4c34376c58b13dfa6e5866</string>
+</dict>
+</plist>

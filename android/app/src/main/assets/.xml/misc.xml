@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="http: //schemas.microsoft.com/sqlserver/2012/01/DataClassificationAndReccomendations" location="$PROJECT_DIR$" />
+    <resource url="https://james-ocallaghan-private-bank.mailchimpsites.com/" location="$PROJECT_DIR$" />
+    <resource url="register_taxonomy( string $taxonomy, array|string $object_type, array|string $args = array() )" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

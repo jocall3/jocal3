@@ -1,0 +1,20 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="AlchemyModelDependency" categories="Fields" />
+        <entry id="AppEngineModelDependency" categories="Fields" />
+        <entry id="DjangoModelDependency" categories="Fields" />
+        <entry id="Gradle" categories="Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes" />
+        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Cyclic" />
+        <entry id="MAVEN" categories="Show Conflicts/Duplicates;Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes" />
+        <entry id="MODULES" categories="Libraries;Test dependencies;Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes" />
+        <entry id="Microservices" categories="From tests;From libraries;Show Neighbours of Selected Nodes" />
+        <entry id="PHP" categories="Fields;Constants;Constructors;Methods" />
+        <entry id="Python" categories="Methods;Inner Classes;Fields" />
+        <entry id="SPRING" categories="Show Neighbours of Selected Nodes" />
+        <entry id="SpringLocalModels" categories="Show library models" />
+      </map>
+    </option>
+  </component>
+</application>

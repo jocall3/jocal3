@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?libxml version="1.0"?>
+<Library>
+  <LibraryObject Name="Income Accounts" Category="ListBox" Key="1" Tag="Income, Sales, Profit, Loss">
+    <Desc>Income Accounts</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="incomeaccounts" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Expense Accounts" Category="ListBox" Key="2" Tag="Expense, Sales, Profit, Loss">
+    <Desc>Expense Accounts</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="expenseaccounts" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="P &amp; L Accounts" Category="ListBox" Key="3" Tag="Income, Expense, Sales, Profit, Loss">
+    <Desc>P &amp; L Accounts</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="placcounts" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Balance Sheet Accounts" Category="ListBox" Key="4" Tag="Asset, Liability, Equity, Balsheet">
+    <Desc>Balance Sheet Accounts</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="balancesheetaccounts" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Asset Accounts" Category="ListBox" Key="5" Tag="Asset, Balsheet">
+    <Desc>Asset Accounts</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="assetaccounts" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Liabilities and Equity Accounts" Category="ListBox" Key="6" Tag="Liability, Equity, Balsheet">
+    <Desc>Liabilities &amp; Equity Accounts</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="liabilitiesandequity" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Bank &amp; Undeposited Funds Accounts" Category="ListBox" Key="7" Tag="Bank">
+    <Desc>Bank &amp; Undeposited Funds Accounts</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="bankundepositedfundsaccounts" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="A/P and sales tax Accounts" Category="ListBox" Key="8" Tag="AP, salestax">
+    <Desc>A/P and Sales Tax Accounts</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="apandsalestax" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Customer:Jobs" Category="ListBox" Key="9" Tag="Customer, jobs, sales, purchase">
+    <Desc>Customer:Jobs</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="customerjobs" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Vendors" Category="ListBox" Key="10" Tag="Vendor, sales, purchase">
+    <Desc>Vendors</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="vendors" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Other Names" Category="ListBox" Key="11" Tag="Othername">
+    <Desc>Other Names</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="othernames" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Sales Reps" Category="ListBox" Key="12" Tag="Salesrep">
+    <Desc>Sales Reps</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="salesreps" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Class" Category="ListBox" Key="13" Tag="Class">
+    <Desc>Class</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="class" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Item Types" Category="ListBox" Key="14" Tag="Item,Itemtype">
+    <Desc>Item Type</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="itemtypes" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Inventory Items" Category="ListBox" Key="15" Tag="Item,Itemtype, Inventory">
+    <Desc>Inventory Items</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="inventoryitems" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Non Inventory Items" Category="ListBox" Key="16" Tag="Item,Itemtype,NonInventory">
+    <Desc>Non Inventory Items</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="noninventoryitems" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Discount Items" Category="ListBox" Key="17" Tag="Item,Itemtype,Discount">
+    <Desc>Discount Items</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="discountitems" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Fixed Asset Items" Category="ListBox" Key="18" Tag="Item,Itemtype,Fixed Asset">
+    <Desc>Fixed Asset Items</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="fixedassetitems" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Service Items" Category="ListBox" Key="19" Tag="Item,Itemtype,Service">
+    <Desc>Service Items</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="serviceitems" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Items" Category="ListBox" Key="20" Tag="Item,Itemtype">
+    <Desc>Items List</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="items" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Sales Transaction Types" Category="ListBox" Key="21" Tag="Sales">
+    <Desc>Sales Transaction Types</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="salestransactionstypes" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Purchase Transaction Types" Category="ListBox" Key="22" Tag="Purchase">
+    <Desc>Purchase Transaction Types</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="purchasetransactionstypes" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Types" Category="ListBox" Key="23" Tag="Transaction Types">
+    <Desc>Transaction Type</Desc>
+    <Folder Name="ListBoxObjects"/>
+    <Files>
+      <File Name="transactionstypes" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Sales Last 12 months" Category="Chart" Key="24" Tag="Sales">
+    <Desc>Sales (Last 12 Months)</Desc>
+    <Folder Name="Charts\BarCharts\saleslast12months"/>
+    <Files>
+      <File Name="saleslast12months" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Sales Top 10 Item Last 12 Months" Category="Chart" Key="25" Tag="Sales">
+    <Desc>Sales Top 10 Items Last 12 Months Bar Chart</Desc>
+    <Folder Name="Charts\BarCharts\salestop10itemslast12months"/>
+    <Files>
+      <File Name="salestop10itemslast12months" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Sales Top 10 Item Last 12 Months" Category="Chart" Key="26" Tag="Sales">
+    <Desc>Sales Top 10 Items Last 12 Months Pie Chart</Desc>
+    <Folder Name="Charts\PieCharts\salestop10itemslast12months"/>
+    <Files>
+      <File Name="salestop10itemslast12months" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Vendors" Category="Tables" Key="27" Tag="vendor, purchase">
+    <Desc>Vendor</Desc>
+    <Folder Name="Tables\StraightTables\vendors"/>
+    <Files>
+      <File Name="vendors" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Purchase Transactions" Category="Tables" Key="28" Tag="vendor, purchase">
+    <Desc>Purchase Transactions</Desc>
+    <Folder Name="Tables\PivotTables\purchasetransactions"/>
+    <Files>
+      <File Name="purchasetransactions" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Sales Transactions" Category="Tables" Key="29" Tag="customer, sales">
+    <Desc>Sales Transactions</Desc>
+    <Folder Name="Tables\PivotTables\salestransactions"/>
+    <Files>
+      <File Name="salestransactions" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Current Selection" Category="TextUtility" Key="30" Tag="currentselection">
+    <Desc>Current Selection </Desc>
+    <Folder Name="TextUtilities\CurrentSelections\_1"/>
+    <Files>
+      <File Name="1" />
+      <File Name="1Clear" />
+      <File Name="1LeftArrow" />
+      <File Name="1RightArrow" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Canonical Date" Category="Date" Key="31" Tag="Date">
+    <Desc>Canonical</Desc>
+    <Folder Name="Dates\Standard\_1"/>
+    <Files>
+      <File Name="Title" />
+      <File Name="CanonicalMonthRibbon" />
+      <File Name="CanonicalQtrRibbon" />
+      <File Name="CanonicalYearRibbon" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Canonical (M/Y)" Category="Date" Key="32" Tag="Date">
+    <Desc>Canonical (M/Y)</Desc>
+    <Folder Name="Dates\Standard\_2"/>
+    <Files>
+      <File Name="CanonicalMonthYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Canonical (Q/Y)" Category="Date" Key="33" Tag="Date">
+    <Desc>Canonical (Q/Y)</Desc>
+    <Folder Name="Dates\Standard\_3"/>
+    <Files>
+      <File Name="CanonicalQtrYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Customer Last Invoiced" Category="Date" Key="34" Tag="Date">
+    <Desc>Customer Last Invoiced</Desc>
+    <Folder Name="Dates\Standard\_7"/>
+    <Files>
+      <File Name="Title" />
+      <File Name="CustLInvoicedMonthRibbon" />
+      <File Name="CustLInvoicedQtrRibbon" />
+      <File Name="CustLInvoicedYearRibbon" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Customer Last Invoiced (M/Y)" Category="Date" Key="35" Tag="Date">
+    <Desc>Customer Last Invoiced (M/Y)</Desc>
+    <Folder Name="Dates\Standard\_8"/>
+    <Files>
+      <File Name="CustLInvoicedDateMonthYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Customer Last Invoiced (Q/Y)" Category="Date" Key="36" Tag="Date">
+    <Desc>Customer Last Invoiced (Q/Y)</Desc>
+    <Folder Name="Dates\Standard\_9"/>
+    <Files>
+      <File Name="CustLInvoicedDateQtrYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Customer Last Payment" Category="Date" Key="37" Tag="Date">
+    <Desc>Customer Last Payment</Desc>
+    <Folder Name="Dates\Standard\_4"/>
+    <Files>
+      <File Name="Title" />
+      <File Name="CustLPmtMonthRibbon" />
+      <File Name="CustLPmtQtrRibbon" />
+      <File Name="CustLPmtYearRibbon" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Customer Last Payment (M/Y)" Category="Date" Key="38" Tag="Date">
+    <Desc>Customer Last Payment (M/Y)</Desc>
+    <Folder Name="Dates\Standard\_5"/>
+    <Files>
+      <File Name="CustLPmtDateMonthYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Customer Last Payment (Q/Y)" Category="Date" Key="39" Tag="Date">
+    <Desc>Customer Last Payment (Q/Y)</Desc>
+    <Folder Name="Dates\Standard\_6"/>
+    <Files>
+      <File Name="CustLPmtDateQtrYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction" Category="Date" Key="40" Tag="Date">
+    <Desc>Transaction</Desc>
+    <Folder Name="Dates\Standard\_10"/>
+    <Files>
+      <File Name="Title" />
+      <File Name="TxnDateMonthOnRibbon" />
+      <File Name="TxnDateQtrOnRibbon" />
+      <File Name="TxnDateYearOnRibbon" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction (M/Y)" Category="Date" Key="41" Tag="Date">
+    <Desc>Transaction (M/Y)</Desc>
+    <Folder Name="Dates\Standard\_11"/>
+    <Files>
+      <File Name="TxnDateMonthYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction (Q/Y)" Category="Date" Key="42" Tag="Date">
+    <Desc>Transaction (Q/Y)</Desc>
+    <Folder Name="Dates\Standard\_12"/>
+    <Files>
+      <File Name="TxnDateQtrYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Last Invoiced" Category="Date" Key="43" Tag="Date">
+    <Desc>Transaction Last Invoiced</Desc>
+    <Folder Name="Dates\Standard\_13"/>
+    <Files>
+      <File Name="Title" />
+      <File Name="TxnLInvMonthRibbon" />
+      <File Name="TxnLInvQtrRibbon" />
+      <File Name="TxnLInvYearRibbon" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Last Invoiced (M/Y)" Category="Date" Key="44" Tag="Date">
+    <Desc>Transaction Last Invoiced (M/Y)</Desc>
+    <Folder Name="Dates\Standard\_14"/>
+    <Files>
+      <File Name="TxnLInvDateMonthYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Last Invoiced (Q/Y)" Category="Date" Key="45" Tag="Date">
+    <Desc>Transaction Last Invoiced (Q/Y)</Desc>
+    <Folder Name="Dates\Standard\_15"/>
+    <Files>
+      <File Name="TxnLInvDateQtrYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Last Payment" Category="Date" Key="46" Tag="Date">
+    <Desc>Transaction Last Payment</Desc>
+    <Folder Name="Dates\Standard\_16"/>
+    <Files>
+      <File Name="Title" />
+      <File Name="TxnLPmtMonthRibbon" />
+      <File Name="TxnLPmtQtrRibbon" />
+      <File Name="TxnLPmtYearRibbon" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Last Payment (M/Y)" Category="Date" Key="47" Tag="Date">
+    <Desc>Transaction Last Payment (M/Y)</Desc>
+    <Folder Name="Dates\Standard\_17"/>
+    <Files>
+      <File Name="TxnLPmtDateMonthYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Last Payment (Q/Y)" Category="Date" Key="48" Tag="Date">
+    <Desc>Transaction Last Payment (Q/Y)</Desc>
+    <Folder Name="Dates\Standard\_18"/>
+    <Files>
+      <File Name="TxnLPmtDateQtrYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Last Ship" Category="Date" Key="49" Tag="Date">
+    <Desc>Transaction Last Ship</Desc>
+    <Folder Name="Dates\Standard\_19"/>
+    <Files>
+      <File Name="Title" />
+      <File Name="TxnLShipMonthRibbon" />
+      <File Name="TxnLShipQtrRibbon" />
+      <File Name="TxnLShipYearRibbon" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Last Ship (M/Y)" Category="Date" Key="50" Tag="Date">
+    <Desc>Transaction Last Ship (M/Y)</Desc>
+    <Folder Name="Dates\Standard\_20"/>
+    <Files>
+      <File Name="TxnLShipDateMonthYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Transaction Last Ship (Q/Y)" Category="Date" Key="51" Tag="Date">
+    <Desc>Transaction Last Ship (Q/Y)</Desc>
+    <Folder Name="Dates\Standard\_21"/>
+    <Files>
+      <File Name="TxnLShipDateQtrYear" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Report Title" Category="TextUtility" Key="52" Tag="Title">
+    <Desc>Report Title </Desc>
+    <Folder Name="TextUtilities\Titles\_1"/>
+    <Files>
+      <File Name="Title_1" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Search All Fields" Category="TextUtility" Key="53" Tag="Search">
+    <Desc>Search All Fields </Desc>
+    <Folder Name="TextUtilities\SearchBoxes\_1"/>
+    <Files>
+      <File Name="SearchAllFields" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Report Subtitle" Category="TextUtility" Key="54" Tag="subtitle">
+    <Desc>Report Subtitle </Desc>
+    <Folder Name="TextUtilities\SubTitles\_1"/>
+    <Files>
+      <File Name="Subtitle_1" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Comments" Category="TextUtility" Key="55" Tag="comments">
+    <Desc>Comments </Desc>
+    <Folder Name="TextUtilities\Notes\_1"/>
+    <Files>
+      <File Name="Comment_1" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="Invoiced Vs Paid" Category="Chart" Key="56" Tag="Paid">
+    <Desc>Invoiced Vs Paid</Desc>
+    <Folder Name="Charts\BarCharts\invoicedvspaid"/>
+    <Files>
+      <File Name="invoicedvspaid" />
+    </Files>
+  </LibraryObject>
+  <LibraryObject Name="SO Created Vs SO Shipped" Category="Chart" Key="57" Tag="shipped">
+    <Desc>Sales Order Created Vs Sales Order Shipped</Desc>
+    <Folder Name="Charts\BarCharts\amountofsocreatedvssoshipped"/>
+    <Files>
+      <File Name="amountofsocreatedvssoshipped" />
+    </Files>
+  </LibraryObject>
+</Library>

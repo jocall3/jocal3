@@ -1,0 +1,5 @@
+<application>
+  <component name="JupyterSettings">
+    <option name="showInlineValues" value="true" />
+  </component>
+</application>

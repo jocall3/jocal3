@@ -1,0 +1,33 @@
+<application>
+  <component name="TmsSettingsStore">
+    <option name="connections">
+      <map>
+        <entry key="-28163b18">
+          <value>
+            <UnifiedTmsConnectionSettings>
+              <option name="id" value="-28163b18" />
+              <option name="serviceId" value="TestRail" />
+              <option name="url" value="https://businessaccess.citibank.citigroup.com/cbusol/do/htmlserver/images/Checking_12062016.qbo" />
+            </UnifiedTmsConnectionSettings>
+          </value>
+        </entry>
+        <entry key="17cbc21c">
+          <value>
+            <UnifiedTmsConnectionSettings>
+              <option name="id" value="17cbc21c" />
+              <option name="serviceId" value="Local" />
+            </UnifiedTmsConnectionSettings>
+          </value>
+        </entry>
+        <entry key="60ce569b">
+          <value>
+            <UnifiedTmsConnectionSettings>
+              <option name="id" value="60ce569b" />
+              <option name="serviceId" value="TestRail" />
+            </UnifiedTmsConnectionSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

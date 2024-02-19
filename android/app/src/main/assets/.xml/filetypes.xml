@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="*.QBW.ADR" type="AUTO_DETECTED" />
+      <mapping pattern="registered" type="AUTO_DETECTED" />
+      <mapping pattern=".bash_history-history" type="AUTO_DETECTED" />
+      <mapping pattern="index" type="Native" />
+      <mapping pattern="dXJuOmFhaWQ6c2M6dXM6YTdhMzdjMWYtYTZmMy00NzliLWFkNzUtODAzNjZjYWNlMGU1YXNzZXQtMDI=" type="PLAIN_TEXT" />
+      <mapping ext="vdf" type="PLAIN_TEXT" />
+      <mapping ext="cfs" type="PLAIN_TEXT" />
+      <mapping ext="hprof" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+    </extensionMap>
+  </component>
+</application>
