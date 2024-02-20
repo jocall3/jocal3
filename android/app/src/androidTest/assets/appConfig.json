@@ -70,16 +70,16 @@
         "internal": true
       }, {
         "regex": "https?://([-\\w]+\\.)*facebook\\.com/pages/.*",
-        "internal": false
+        "internal": true
       }, {
         "regex": "https?://([-\\w]+\\.)*facebook\\.com/sharer\\.php.*",
-        "internal": false
+        "internal": true
       }, {
         "regex": "https?://([-\\w]+\\.)*plus\\.google\\.com/share.*",
-        "internal": false
+        "internal": true
       }, {
         "regex": "https?://([-\\w]+\\.)*twitter\\.com/intent/.*",
-        "internal": false
+        "internal": true
       }, {
         "regex": "https?://([-\\w]+\\.)*gonative\\.io/?.*",
         "internal": true
@@ -128,8 +128,8 @@
     "transitionInteractiveDelayMax": 0.2
   },
   "permissions": {
-    "usesGeolocation": false,
-    "androidDownloadToPublicStorage": false
+    "usesGeolocation": true,
+    "androidDownloadToPublicStorage": true
   },
   "services": {
     "oneSignal": {
